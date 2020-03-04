@@ -1,0 +1,709 @@
+fileFormatVersion: 2
+guid: 0837a6730c5dd654cbafe6ee09d67cdd
+timeCreated: 1513439573
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_0
+    21300002: npc_1
+    21300004: npc_2
+    21300006: npc_3
+    21300008: npc_4
+    21300010: npc_5
+    21300012: npc_6
+    21300014: npc_7
+    21300016: npc_8
+    21300018: npc_9
+    21300020: npc_10
+    21300022: npc_11
+    21300024: npc_12
+    21300026: npc_13
+    21300028: npc_14
+    21300030: npc_15
+    21300032: npc_16
+    21300034: npc_17
+    21300036: npc_18
+    21300038: npc_19
+    21300040: npc_20
+    21300042: npc_21
+    21300044: npc_22
+    21300046: npc_23
+    21300048: npc_24
+    21300050: npc_25
+    21300052: npc_26
+    21300054: npc_27
+    21300056: npc_28
+    21300058: npc_29
+    21300060: npc_30
+    21300062: npc_31
+    21300064: npc_32
+    21300066: npc_33
+    21300068: npc_34
+    21300070: npc_35
+    21300072: npc_36
+    21300074: npc_37
+    21300076: npc_38
+    21300078: npc_39
+    21300080: npc_40
+    21300082: npc_41
+    21300084: npc_42
+    21300086: npc_43
+    21300088: npc_44
+    21300090: npc_45
+    21300092: npc_46
+    21300094: npc_47
+    21300096: npc_48
+    21300098: npc_49
+    21300100: npc_50
+    21300102: npc_51
+    21300104: npc_52
+    21300106: npc_53
+    21300108: npc_54
+    21300110: npc_55
+    21300112: npc_56
+    21300114: npc_57
+    21300116: npc_58
+    21300118: npc_59
+    21300120: npc_60
+    21300122: npc_61
+    21300124: npc_62
+    21300126: npc_63
+    21300128: npc_64
+    21300130: npc_65
+    21300132: npc_66
+    21300134: npc_67
+    21300136: npc_68
+    21300138: npc_69
+    21300140: npc_70
+    21300142: npc_71
+    21300144: npc_72
+    21300146: npc_73
+    21300148: npc_74
+    21300150: npc_75
+    21300152: npc_76
+    21300154: npc_77
+    21300156: npc_78
+    21300158: npc_79
+    21300160: npc_80
+    21300162: npc_81
+    21300164: npc_82
+    21300166: npc_83
+    21300168: npc_84
+    21300170: npc_85
+    21300172: npc_86
+    21300174: npc_87
+    21300176: npc_88
+    21300178: npc_89
+    21300180: npc_90
+    21300182: npc_91
+    21300184: npc_92
+    21300186: npc_93
+    21300188: npc_94
+    21300190: npc_95
+    21300192: npc_96
+    21300194: npc_97
+    21300196: npc_98
+    21300198: npc_99
+    21300200: npc_100
+    21300202: npc_101
+    21300204: npc_102
+    21300206: npc_103
+    21300208: npc_104
+    21300210: npc_105
+    21300212: npc_106
+    21300214: npc_107
+    21300216: npc_108
+    21300218: npc_109
+    21300220: npc_110
+    21300222: npc_111
+    21300224: npc_112
+    21300226: npc_113
+    21300228: npc_114
+    21300230: npc_115
+    21300232: npc_116
+    21300234: npc_117
+    21300236: npc_118
+    21300238: npc_119
+    21300240: npc_120
+    21300242: npc_121
+    21300244: npc_122
+    21300246: npc_123
+    21300248: npc_124
+    21300250: npc_125
+    21300252: npc_126
+    21300254: npc_127
+    21300256: npc_128
+    21300258: npc_129
+    21300260: npc_130
+    21300262: npc_131
+    21300264: npc_132
+    21300266: npc_133
+    21300268: npc_134
+    21300270: npc_135
+    21300272: npc_136
+    21300274: npc_137
+    21300276: npc_138
+    21300278: npc_139
+    21300280: npc_140
+    21300282: npc_141
+    21300284: npc_142
+    21300286: npc_143
+    21300288: npc_144
+    21300290: npc_145
+    21300292: npc_146
+    21300294: npc_147
+    21300296: npc_148
+    21300298: npc_149
+    21300300: npc_150
+    21300302: npc_151
+    21300304: npc_152
+    21300306: npc_153
+    21300308: npc_154
+    21300310: npc_155
+    21300312: npc_156
+    21300314: npc_157
+    21300316: npc_158
+    21300318: npc_159
+    21300320: npc_160
+    21300322: npc_161
+    21300324: npc_162
+    21300326: npc_163
+    21300328: npc_164
+    21300330: npc_165
+    21300332: npc_166
+    21300334: npc_167
+    21300336: npc_168
+    21300338: npc_169
+    21300340: npc_170
+    21300342: npc_171
+    21300344: npc_172
+    21300346: npc_173
+    21300348: npc_174
+    21300350: npc_175
+    21300352: npc_176
+    21300354: npc_177
+    21300356: npc_178
+    21300358: npc_179
+    21300360: npc_180
+    21300362: npc_181
+    21300364: npc_182
+    21300366: npc_183
+    21300368: npc_184
+    21300370: npc_185
+    21300372: npc_186
+    21300374: npc_187
+    21300376: npc_188
+    21300378: npc_189
+    21300380: npc_190
+    21300382: npc_191
+    21300384: npc_192
+    21300386: npc_193
+    21300388: npc_194
+    21300390: npc_195
+    21300392: npc_196
+    21300394: npc_197
+    21300396: npc_198
+    21300398: npc_199
+    21300400: npc_200
+    21300402: npc_201
+    21300404: npc_202
+    21300406: npc_203
+    21300408: npc_204
+    21300410: npc_205
+    21300412: npc_206
+    21300414: npc_207
+    21300416: npc_208
+    21300418: npc_209
+    21300420: npc_210
+    21300422: npc_211
+    21300424: npc_212
+    21300426: npc_213
+    21300428: npc_214
+    21300430: npc_215
+    21300432: npc_216
+    21300434: npc_217
+    21300436: npc_218
+    21300438: npc_219
+    21300440: npc_220
+    21300442: npc_221
+    21300444: npc_222
+    21300446: npc_223
+    21300448: npc_224
+    21300450: npc_225
+    21300452: npc_226
+    21300454: npc_227
+    21300456: npc_228
+    21300458: npc_229
+    21300460: npc_230
+    21300462: npc_231
+    21300464: npc_232
+    21300466: npc_233
+    21300468: npc_234
+    21300470: npc_235
+    21300472: npc_236
+    21300474: npc_237
+    21300476: npc_238
+    21300478: npc_239
+    21300480: npc_240
+    21300482: npc_241
+    21300484: npc_242
+    21300486: npc_243
+    21300488: npc_244
+    21300490: npc_245
+    21300492: npc_246
+    21300494: npc_247
+    21300496: npc_248
+    21300498: npc_249
+    21300500: npc_250
+    21300502: npc_251
+    21300504: npc_252
+    21300506: npc_253
+    21300508: npc_254
+    21300510: npc_255
+    21300512: npc_256
+    21300514: npc_257
+    21300516: npc_258
+    21300518: npc_259
+    21300520: npc_260
+    21300522: npc_261
+    21300524: npc_262
+    21300526: npc_263
+    21300528: npc_264
+    21300530: npc_265
+    21300532: npc_266
+    21300534: npc_267
+    21300536: npc_268
+    21300538: npc_269
+    21300540: npc_270
+    21300542: npc_271
+    21300544: npc_272
+    21300546: npc_273
+    21300548: npc_274
+    21300550: npc_275
+    21300552: npc_276
+    21300554: npc_277
+    21300556: npc_278
+    21300558: npc_279
+    21300560: npc_280
+    21300562: npc_281
+    21300564: npc_282
+    21300566: npc_283
+    21300568: npc_284
+    21300570: npc_285
+    21300572: npc_286
+    21300574: npc_287
+    21300576: npc_288
+    21300578: npc_289
+    21300580: npc_290
+    21300582: npc_291
+    21300584: npc_292
+    21300586: npc_293
+    21300588: npc_294
+    21300590: npc_295
+    21300592: npc_296
+    21300594: npc_297
+    21300596: npc_298
+    21300598: npc_299
+    21300600: npc_300
+    21300602: npc_301
+    21300604: npc_302
+    21300606: npc_303
+    21300608: npc_304
+    21300610: npc_305
+    21300612: npc_306
+    21300614: npc_307
+    21300616: npc_308
+    21300618: npc_309
+    21300620: npc_310
+    21300622: npc_311
+    21300624: npc_312
+    21300626: npc_313
+    21300628: npc_314
+    21300630: npc_315
+    21300632: npc_316
+    21300634: npc_317
+    21300636: npc_318
+    21300638: npc_319
+    21300640: npc_320
+    21300642: npc_321
+    21300644: npc_322
+    21300646: npc_323
+    21300648: npc_324
+    21300650: npc_325
+    21300652: npc_326
+    21300654: npc_327
+    21300656: npc_328
+    21300658: npc_329
+    21300660: npc_330
+    21300662: npc_331
+    21300664: npc_332
+    21300666: npc_333
+    21300668: npc_334
+    21300670: npc_335
+    21300672: npc_336
+    21300674: npc_337
+    21300676: npc_338
+    21300678: npc_339
+    21300680: npc_340
+    21300682: npc_341
+    21300684: npc_342
+    21300686: npc_343
+    21300688: npc_344
+    21300690: npc_345
+    21300692: npc_346
+    21300694: npc_347
+    21300696: npc_348
+    21300698: npc_349
+    21300700: npc_350
+    21300702: npc_351
+    21300704: npc_352
+    21300706: npc_353
+    21300708: npc_354
+    21300710: npc_355
+    21300712: npc_356
+    21300714: npc_357
+    21300716: npc_358
+    21300718: npc_359
+    21300720: npc_360
+    21300722: npc_361
+    21300724: npc_362
+    21300726: npc_363
+    21300728: npc_364
+    21300730: npc_365
+    21300732: npc_366
+    21300734: npc_367
+    21300736: npc_368
+    21300738: npc_369
+    21300740: npc_370
+    21300742: npc_371
+    21300744: npc_372
+    21300746: npc_373
+    21300748: npc_374
+    21300750: npc_375
+    21300752: npc_376
+    21300754: npc_377
+    21300756: npc_378
+    21300758: npc_379
+    21300760: npc_380
+    21300762: npc_381
+    21300764: npc_382
+    21300766: npc_383
+    21300768: npc_384
+    21300770: npc_385
+    21300772: npc_386
+    21300774: npc_387
+    21300776: npc_388
+    21300778: npc_389
+    21300780: npc_390
+    21300782: npc_391
+    21300784: npc_392
+    21300786: npc_393
+    21300788: npc_394
+    21300790: npc_395
+    21300792: npc_396
+    21300794: npc_397
+    21300796: npc_398
+    21300798: npc_399
+    21300800: npc_400
+    21300802: npc_401
+    21300804: npc_402
+    21300806: npc_403
+    21300808: npc_404
+    21300810: npc_405
+    21300812: npc_406
+    21300814: npc_407
+    21300816: npc_408
+    21300818: npc_409
+    21300820: npc_410
+    21300822: npc_411
+    21300824: npc_412
+    21300826: npc_413
+    21300828: npc_414
+    21300830: npc_415
+    21300832: npc_416
+    21300834: npc_417
+    21300836: npc_418
+    21300838: npc_419
+    21300840: npc_420
+    21300842: npc_421
+    21300844: npc_422
+    21300846: npc_423
+    21300848: npc_424
+    21300850: npc_425
+    21300852: npc_426
+    21300854: npc_427
+    21300856: npc_428
+    21300858: npc_429
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 536
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 535
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 535
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 535
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_31
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 535
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_119
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 389
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_131
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 389
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_134
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 293
+        width: 27
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_239
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_248
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 245
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_287
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 181
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_323
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_341
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_353
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: npc_389
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 32
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: NPC
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

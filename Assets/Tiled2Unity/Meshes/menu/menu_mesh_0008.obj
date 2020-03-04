@@ -1,0 +1,31 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'menu_mesh_0008.obj'
+
+# Vertices (Count = 8)
+v -6.4 -4.16 0
+v -6.72 -4.16 0
+v -6.72 -3.84 0
+v -6.4 -3.84 0
+v -6.72 -4.16 0
+v -7.04 -4.16 0
+v -7.04 -3.84 0
+v -6.72 -3.84 0
+
+# Texture cooridinates (Count = 6)
+vt 0 0.3125
+vt 0.0625 0.3125
+vt 0.0625 0.375
+vt 0 0.375
+vt 0.125 0.3125
+vt 0.125 0.375
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g menu_mesh_0008
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/2/1 6/5/1 7/6/1 8/3/1
+
