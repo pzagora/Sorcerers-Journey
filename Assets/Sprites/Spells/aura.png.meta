@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: bafbfde52d30546499206da2ea1d53cf
+timeCreated: 1510395071
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aura_0
+    21300002: aura_1
+    21300004: aura_2
+    21300006: aura_3
+    21300008: aura_4
+    21300010: aura_5
+    21300012: aura_6
+    21300014: aura_7
+    21300016: aura_8
+    21300018: aura_9
+    21300020: aura_10
+    21300022: aura_11
+    21300024: aura_12
+    21300026: aura_13
+    21300028: aura_14
+    21300030: aura_15
+    21300032: aura_16
+    21300034: aura_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aura_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 311.3333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 311.3333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 311.3333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 311.3333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_4
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 311.3333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_5
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 311.3333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.33333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 156.33333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 156.33333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 156.33333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 156.33333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 156.33333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_12
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 156.33333
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1.3333282
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1.3333282
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1.3333282
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aura_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1.3333282
+        width: 149.71428
+        height: 155.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
