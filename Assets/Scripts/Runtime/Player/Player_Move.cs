@@ -57,7 +57,7 @@ public class Player_Move : MonoBehaviour {
 
         anim.SetFloat("input_y", -1);
 
-        castPosition = transform.FindChild("castPosition");
+        castPosition = transform.Find("castPosition");
 
         manaBoost = false;
         auraOn = false;
